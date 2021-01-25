@@ -45,6 +45,21 @@ banks in this market who have nothing to offer.  One new entrant is Airwallex, w
 in 2020, is looking to expand its cross border payment offerings.  It has announced a partnership with Visa to launch the 
 Airwallex Boderless Card for businesses.
 
+References:  Pymnts.com posting Nov 13, 2020
+             Reuters.com August 25, 2020 by Anna Irrera 
+             CNBC.com
+             iris.xyz Chris Skinner Jany 20 2021
+             JP Morgan.com --> JPM Coin
+             Statista.com  B2B international transactions
+             finance.townhall.com Mark Skousen 
+             yahoofinance.com
+             New York Time Nathaniel Popper Feb 19, 2020
+             Forbes Madvhi Mavadiya 
+             
+
+        
+
+
 
 
 
