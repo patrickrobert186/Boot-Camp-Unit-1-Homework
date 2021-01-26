@@ -43,7 +43,7 @@ business transactions.
 By facilitating these transactions, they can compete against new Fintech players in the market and replace other traditional 
 banks in this market who have nothing to offer.  One new entrant is Airwallex, who secured $160 million in Series D funding 
 in 2020, is looking to expand its cross border payment offerings.  It has announced a partnership with Visa to launch the 
-Airwallex Boderless Card for businesses.
+Airwallex Boderless Card for businesses.  
 
 References:  Pymnts.com posting Nov 13, 2020
              Reuters.com August 25, 2020 by Anna Irrera 
